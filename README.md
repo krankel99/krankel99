@@ -7,6 +7,8 @@ I am a Junior at the University of Notre Dame studying Finance and Accounting wi
 Bachelor's of Business Administration - University of Notre Dame (in progress)
 
 ## Skills
-Python
-R Studio
-Power BI
+- Python
+
+- R Studio
+
+- Power BI
