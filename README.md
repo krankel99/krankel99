@@ -18,4 +18,6 @@ Bachelor's of Business Administration - University of Notre Dame (in progress)
 - Learn how to code more on my own
 
 ## Projects for Semester
+![image](https://github.com/user-attachments/assets/a9372d37-9fd6-40bf-aecc-52edc5dbe023)
 - I want to teach myself how to code a program to play tic-tac-toe and Connect 4 so that it is unbeatable
+
