@@ -5,20 +5,17 @@ I am a Junior at the University of Notre Dame studying Finance and Accounting wi
 
 ## Education
 
-Bachelor's of Business Administration - University of Notre Dame (in progress)
+**Bachelor's of Business Administration** - University of Notre Dame (in progress)
 
-## Skills
-- Python
+## Tech Toolbox
+- **Languages**: Python, SQL, R
+- **Frameworks & Libraries**: Huggingface, SpaCy, Scikit-learn, yfinance
+- **Specialities**: LLMs, Generative AI, NLP
 
-- R Studio
-
-- Power BI
-
-## Goals for Semester
-- Become more familiar with Python
-- Learn how to code more on my own
+## Goals for Coding
+- Become more familiar with Python and other languages
+- Learn how to use code to automate processes related to finance
 
 ## Projects for Semester
-![image](https://github.com/user-attachments/assets/a9372d37-9fd6-40bf-aecc-52edc5dbe023)
-- I want to teach myself how to code a program to play tic-tac-toe and Connect 4 so that it is unbeatable
+
 
