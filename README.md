@@ -1,3 +1,4 @@
+# Hello, I'm Kevin!
 ## About Me
 
 I am a Junior at the University of Notre Dame studying Finance and Accounting with a minor in Computing & Digital Technologies.
