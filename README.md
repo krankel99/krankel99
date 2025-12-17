@@ -4,7 +4,7 @@ Email: krankel2@nd.edu
 [LinkedIn](www.linkedin.com/in/kevin-rankel-19b9841b3)
 ## About Me
 
-I am a Junior at the University of Notre Dame studying Finance and Accounting with a minor in Computing & Digital Technologies.
+I am a Senior at the University of Notre Dame studying Finance and Accounting with a minor in Computing & Digital Technologies.
 
 ## Education
 
